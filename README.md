@@ -1,6 +1,6 @@
 ##  [Kriti Goel's website]
 
-This page contains links of all the webpages in my gitgub repositories
+This page contains links of all the webpages in my github repositories
 
 ### Check out the following games
 **Chip-Drop game:**
